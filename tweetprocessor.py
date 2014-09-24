@@ -2,7 +2,7 @@ from twitter import *
 import os
 import pymongo
 'substring in string'
-
+'this is a script for processing tweets'
 
 '''Return a collection named pcollectionname from the pDBname mongoDB'''
 def connectMongoDB(pDBname,pcollectionname):
